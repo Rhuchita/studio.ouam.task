@@ -524,13 +524,13 @@ section {
 .image {
   height: 100%;
   background: linear-gradient(rgba(61, 61, 61, 0.9), rgba(61, 61, 61, 0.9)),
-    url(../images/studio.jpg) center no-repeat;
+    url(./images/studio.jpg) center no-repeat;
   background-size: cover;
   cursor: none;
 }
 .torch {
   height: 100%;
-  background: url(../images/studio.jpg) center no-repeat;
+  background: url(./images/studio.jpg) center no-repeat;
   background-size: cover;
   clip-path: circle(80px at 0px 0px);
 }
